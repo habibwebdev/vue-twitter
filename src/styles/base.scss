@@ -1,0 +1,11 @@
+ body {
+     margin: 0;
+ }
+
+nav a {
+    text-decoration: none;
+
+    &:hover .logo{
+        color: black;
+    }
+}
